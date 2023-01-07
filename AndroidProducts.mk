@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_ysl.mk
+    $(LOCAL_DIR)/arrow_ysl.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_ysl-user \
-    aosp_ysl-userdebug \
-    aosp_ysl-eng
+    arrow_ysl-user \
+    arrow_ysl-userdebug \
+    arrow_ysl-eng
